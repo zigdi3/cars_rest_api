@@ -1,0 +1,14 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "./api_cars.db"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "./api_cars.db"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "./api_cars.db"
+  }
+}
