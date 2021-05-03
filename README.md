@@ -2,10 +2,10 @@
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 ## Pacotes utilizados neste projeto:
-[Express] - Rapidez na criação de rotas
-[Sequelize](https://github.com/sequelize/sequelize) - Automatizar CRUD ao Banco de dados
-[SwaggerUI](https://github.com/swagger-api/swagger-ui) - Ferramenta para design construção de documentos e RESTful para web services.
-[Mocha](https://github.com/mochajs/mocha) - Auxilia em testes da aplicação.
+[Express] - Rapidez na criação de rotas \n
+[Sequelize](https://github.com/sequelize/sequelize) - Automatizar CRUD ao Banco de dados \n
+[SwaggerUI](https://github.com/swagger-api/swagger-ui) - Ferramenta para design construção de documentos e RESTful para web services. \n
+[Mocha](https://github.com/mochajs/mocha) - Auxilia em testes da aplicação. \n
 [Chai](https://github.com/chaijs/chai)[chaiHttp](https://www.chaijs.com/plugins/chai-http/) - auxilia em testes criando a camada http.
 
 ## Projeto
