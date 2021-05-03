@@ -19,7 +19,7 @@ Ainda está em desenvolvimento os testes unitários da aplicação.
 
 Este projeto requer [Node.js](https://nodejs.org/) v14+ para rodar.
 
-Instale as dependencias e execute o app.
+Instale as dependencias e execute o app. 
 
 ```sh
 cd api
